@@ -1,0 +1,157 @@
+*
+{
+	box-sizing: border-box;
+}
+/**box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);**/
+body
+{
+	font-family: 'Merriweather Sans', sans-serif;
+    font-size: 13px;
+    color: #666666;
+	
+}
+
+#container-fluid-topmost
+{
+		background:#666666;
+		
+}
+#container-topmost
+{
+		color:#fff;
+		width:75%;
+		padding:4px;
+}
+#container-logo
+{
+		width:75%;
+}
+.nav-links-top
+{
+		font-size: 12px;
+		color:black;
+		border-right:1px solid #000;
+		text-align:center;
+		padding:0;
+		width:80px !important;
+		margin-top: 10px;
+}
+#nav-links-top-id
+{
+		font-size: 12px;
+		color:black;
+		text-align:center;
+		padding:0;
+		width:103px !important;
+		margin-top: 10px;
+}
+.nav-links
+{
+		font-size: 25px;
+		margin-top: 30px;
+		
+		height:32px;
+		text-align:center;
+		width:151.52px !important;
+		
+}
+#nav-links-id
+{
+		font-size: 25px;
+		margin-top: 30px;
+		height:32px;
+		text-align:center;
+		width:75.75px !important;
+		
+		
+}
+#container-fluid-banner
+{
+	height:420px !important; 
+	padding:0;
+	margin-bottom:0;
+}
+.slider-item
+{
+	height:420px !important; 
+	width:100% !important;
+	padding-left:20px !important;
+	
+}
+.moving-text
+{
+	background:rgb(0,150,170);
+	background:rgba(0,150,170,0.75);
+	color:#fff;
+	font-size:14px;
+	text-align:center;
+}
+.moving-text>h3
+{
+		border-bottom:2px solid #fff;
+}
+
+#container-fluid-banner-bottom
+{
+	color: #fff;
+    font-weight: 300;
+	font-size:25px;
+    margin: 10px 0;
+	background:#0096aa;
+	margin-top:0;
+	text-align:center;
+}
+#container-fluid-preregister
+{
+		background:rgb(213,214,216);
+		padding-bottom:20px;
+		padding:0;
+		height:100%;
+}
+#container-preregister
+{
+	/*width:75%;*/
+	/*background:rgb(0, 152, 169);
+	color:white;
+	padding:7px;**/
+	padding:0 !important;
+	background:white;
+}
+#panel-heading-preregister
+{
+	background:#fff !important;
+	font-weight:normal;
+	
+}
+#panel-default-form
+{
+	border-radius:0;
+	box-shadow:none;
+	
+}
+#container-fluid-preheader
+{
+	background:rgb(213,214,216); /*rgb(0, 152, 169);*/
+	color:#666666;
+	padding:7px;
+}
+
+.form-control_
+{
+	border-radius:0;
+	width:90% !important;
+	margin-left:auto;
+	margin-right:auto;
+	
+	border: 1px solid #C7C7C7;
+    box-shadow: inset 0 3px 6px 0 rgba(0,0,0,0.10);
+    border-radius: 3px;
+}
+
+.control-label
+{
+	font-weight:normal !important;
+	font-family: 'Merriweather Sans', sans-serif;
+	width:90% !important;
+	text-align:left !important;
+}
